@@ -1,4 +1,4 @@
-# Data-Analyst-Project
+# Data-Analysis-Project
 
 # Automobile Dataset Analysis
 
@@ -44,7 +44,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 You can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/automobile-dataset-analysis.git
+git clone  https://github.com/Laliforu/Data-Analysis-Project
 ```
 
 ### Running the Project
