@@ -1,5 +1,3 @@
-# Data-Analysis-Project
-
 # Automobile Dataset Analysis
 
 ## Overview
